@@ -1,72 +1,85 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Elenita Oliveira",
+    "role": "Backend and Frontend Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/elenita-o-4749a5a0/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/lenananita/",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/_elenight",
           "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "address":"Salvador, Bahia, Brasil",
+    "website":"+55 75 99202-8603",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Centro Universitário Estácio da Bahia",
+        "specialization":"Information Sistems",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2021",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Senai - Bahia",
+        "specialization":"Web development",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2014",
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"TRANSALVADOR - Prefeitura Municipal de Salvador",
+        "specialization":"Trainee",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"",
+        "Achievements":"ReacctJS, PHP development, Yii2 Framework, HTML, CSS, Bootstrap, SQL Server, Gitlab"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Proimagem3D",
+        "specialization":"Backend Developer",
+        "MonthOfLeaving":"Mar",
+        "YearOfLeaving":"2019",
+        "Achievements":"PHP development, Cake Framework, MySQL, Bitbucket"
+      },
+      {
+        "CompanyName":"Medkey System",
+        "specialization":"Trainee",
+        "MonthOfLeaving":"Jun",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"PHP development, Zend Framework, Javascript, JQuery, AJAX, PostgreSQL, GitHub"
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
+        "skillname":"PHP"
+      },
+      {
+        "skillname":"GitHub"
+      },
+      {
+        "skillname":"Reactjs"
+      },
+      {
         "skillname":"HTML5"
       },
       {
         "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
       }
     ],
     "portfolio":[
