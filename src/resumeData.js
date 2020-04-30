@@ -2,9 +2,9 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Elenita Oliveira",
     "role": "Backend and Frontend Developer",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":" Elenita Oliveira",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like dabbling in various parts of front and backend development and like to learn about new technologies, to play guitar, write or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
